@@ -28,6 +28,20 @@ I aspire to grow in the field of web development and create high-quality web app
 </a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </div>
 
+<!-- ### 💻 Courses completed:
+
+| Courses                                                           | Date              |
+| ----------------------------------------------------------------| :---------------: |
+| sololearn.com/Python Core                                       | 04/2022 - 09/2022 |
+| sololearn.com/Python for Beginners                              | 04/2022 - 09/2022 |
+| sololearn.com/Python Data Structures                            | 04/2022 - 09/2022 |
+| sololearn.com/Python Intermediate                               | 04/2022 - 09/2022 |
+| sololearn.com/SQL                                               | 04/2022 - 09/2022 |
+| sololearn.com/HTML                                              | 04/2022 - 09/2023 |
+| sololearn.com/Introduction to Java                              | 06/2023 - xx/2023 |
+
+--- -->
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Ruslan-dev-Free-Fire/badges/large)
