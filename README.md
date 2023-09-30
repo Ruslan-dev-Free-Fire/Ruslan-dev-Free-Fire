@@ -1,4 +1,14 @@
-[![Header](https://github.com/Ruslan-dev-Free-Fire/Ruslan-dev-Free-Fire/blob/main/Images/Ruslan-dev-Free-Fire-24-09-2023.gif)](https://www.linkedin.com/in/ruslan-vdovikin-050369155/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruslan-vdovikin-050369155/">
+    <img src="https://github.com/Ruslan-dev-Free-Fire/Ruslan-dev-Free-Fire/blob/main/Images/Ruslan-dev-Free-Fire-24-09-2023.gif" alt="Header" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruslan-vdovikin-050369155/">
+    <img src="https://github.com/Ruslan-dev-Free-Fire/Ruslan-dev-Free-Fire/blob/main/Images/sitting-on-a-cliff.gif" alt="Header2" />
+  </a>
+</p>
 
 ---
 
