@@ -57,8 +57,8 @@ I aspire to grow in the field of web development and create high-quality web app
 | sololearn.com/Python Data Structures                            | 04/2022 - 09/2022 |
 | sololearn.com/Python Intermediate                               | 04/2022 - 09/2022 |
 | sololearn.com/SQL                                               | 04/2022 - 09/2022 |
-| sololearn.com/HTML                                              | 04/2022 - 09/2023 |
-| sololearn.com/Introduction to Java                              | 06/2023 - xx/2023 |
+| sololearn.com/HTML                                              | 04/2022 - 09/2022 |
+| sololearn.com/Introduction to Java                              | 06/2023 - 19/2023 |
 
 ---
 
